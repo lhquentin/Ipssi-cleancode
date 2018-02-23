@@ -1,0 +1,5 @@
+Mon message à logger: hello
+[emergency]\t2018_02_21 14:35:28\tMon message à logger: hello
+[emergency]\t2018_02_21 14:36:10\tMon message à logger: hello
+[emergency]	2018_02_21 14:58:42	Mon message à logger: hello
+[emergency]	2018_02_21 15:16:36	Mon message à logger: hello
