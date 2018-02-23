@@ -1,4 +1,4 @@
-# CleanCode
+# CleanCode [![Build Status](https://travis-ci.org/lhquentin/Ipssi-cleancode.svg?branch=master)](https://travis-ci.org/lhquentin/Ipssi-cleancode)
 
 Cours sur la qualité du code.
 
